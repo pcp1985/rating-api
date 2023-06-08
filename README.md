@@ -3,7 +3,7 @@
 **This repository has been deprecated. Content moved to: https://github.com/MicrosoftDocs/mslearn-aks-workshop-ratings-api**
 
 Container exposes port 8080.
-Required configuration via environment variables:
+Required configuration via environment variables are:
 
 - MONGODB_URI:  `<set to mongoDB endpoint>`. The database is called `webratings` so the format would look like `mongodb://[endpoint]:27017/webratings`
 
